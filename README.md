@@ -1,4 +1,7 @@
-# api documentation for  [headroom.js (v0.9.3)](http://wicky.nillia.ms/headroom.js)  [![npm package](https://img.shields.io/npm/v/npmdoc-headroom.js.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-headroom.js) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-headroom.js.svg)](https://travis-ci.org/npmdoc/node-npmdoc-headroom.js)
+# npmdoc-headroom.js
+
+#### basic api documentation for  [headroom.js (v0.9.3)](http://wicky.nillia.ms/headroom.js)  [![npm package](https://img.shields.io/npm/v/npmdoc-headroom.js.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-headroom.js) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-headroom.js.svg)](https://travis-ci.org/npmdoc/node-npmdoc-headroom.js)
+
 #### Give your page some headroom. Hide your header until you need it
 
 [![NPM](https://nodei.co/npm/headroom.js.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/headroom.js)
@@ -78,7 +81,8 @@
         "test": "grunt test --verbose",
         "version": "npm run build"
     },
-    "version": "0.9.3"
+    "version": "0.9.3",
+    "bin": {}
 }
 ```
 
